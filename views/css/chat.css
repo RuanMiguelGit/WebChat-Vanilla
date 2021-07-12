@@ -5,11 +5,11 @@
 }
 
 body {
-  font: 13px Helvetica, Arial;
+  font: 13px  Helvetica, Arial, Verdana, Tahoma, sans-serif;
 }
 
 .formMessage {
-  background: #000;
+  background: black;
   bottom: 0;
   padding: 3px;
   position: fixed;
@@ -31,16 +31,16 @@ body {
   width: 9%;
 }
 
-#messages {
+.messages {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-#messages li {
+.messages li {
   padding: 5px 10px;
 }
 
-#messages li:nth-child( odd ) {
+.messages li:nth-child( odd ) {
   background: #eee;
 }
