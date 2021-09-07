@@ -14,6 +14,7 @@ module.exports = (io) => io.on('connection', (socket) => {
     io.emit('updateUser', users);
     socket.emit('updateUser', users.reverse());
     });
+    
     socket.on('disconnect', () => {
     users = users.filter((item) => item !== users[0]);
     io.emit('updateUser', users); 
