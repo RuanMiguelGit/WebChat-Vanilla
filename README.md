@@ -10,7 +10,7 @@
 
 # Habilidades
 
-Nesse projeto, você será capaz de:
+Nesse projeto,
 
   - Utilizar Socekt.io
   - Utilizar a Arquitetura MVC
