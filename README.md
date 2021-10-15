@@ -1,7 +1,7 @@
 
 
 # Boas vindas ao repositório do projeto de WebChat - MCV  
-<img src="https://media.giphy.com/media/g8z3eB8arznPhD7Y1g/giphy.gif" /> 
+<img src="https://media.giphy.com/media/g8z3eB8arznPhD7Y1g/giphy.gif" height="350" /> 
 
 
 
